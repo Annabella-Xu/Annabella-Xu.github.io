@@ -1,0 +1,23 @@
+---
+title: "Welcome to My Website"
+author: "Annabella Xu"
+date: "2026-09-30"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+# Hello, World!  
+Welcome to my Quarto website.  
+
+## About this website
+
+This website is my AD688 assignment 1 coursework.
+
+## What I am learning
+
+- Python
+- Cloud computing
+- Reproducible documents with Quarto
+
+Visit my [GitHub profile](https://github.com/Annabella-Xu).
