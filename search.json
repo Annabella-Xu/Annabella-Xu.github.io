@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Welcome to my Quarto website.\n\n\nThis website is my AD688 assignment 1 coursework.\n\n\n\n\nPython\nCloud computing\nReproducible documents with Quarto\n\nVisit my GitHub profile."
+  },
+  {
+    "objectID": "index.html#about-this-website",
+    "href": "index.html#about-this-website",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "This website is my AD688 assignment 1 coursework."
+  },
+  {
+    "objectID": "index.html#what-i-am-learning",
+    "href": "index.html#what-i-am-learning",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Python\nCloud computing\nReproducible documents with Quarto\n\nVisit my GitHub profile."
+  }
+]
