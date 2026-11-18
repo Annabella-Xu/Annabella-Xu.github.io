@@ -2,29 +2,120 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Annabella Xu",
     "section": "",
-    "text": "About this site"
+    "text": "About Annabella Xu\nMy personal introduction is now on the About You homepage.\nYou can also explore my projects, CV, and contact details."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My Website",
-    "section": "",
-    "text": "Welcome to my Quarto website.\n\n\nThis website is my AD688 assignment 1 coursework.\n\n\n\n\nPython\nCloud computing\nReproducible documents with Quarto\n\nVisit my GitHub profile."
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nBoston University\nM.S. in Financial Management, concentration in Artificial Intelligence\nExpected January 2027 · Boston, MA\nCoursework includes Financial Analytics, Quantitative Methods for Finance, Applied Generative AI for Business Analytics, Big Data & Cloud Analytics for Business, and Corporate Finance.\n\n\nMcMaster University\nHonours B.Sc. in Mathematics & Statistics, minor in Economics\nSeptember 2019–June 2024 · Hamilton, Ontario, Canada\nCoursework includes applied statistics, regression analysis, probability, mathematical modeling, microeconomics, and macroeconomics."
   },
   {
-    "objectID": "index.html#about-this-website",
-    "href": "index.html#about-this-website",
-    "title": "Welcome to My Website",
-    "section": "",
-    "text": "This website is my AD688 assignment 1 coursework."
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "CV",
+    "section": "Professional experience",
+    "text": "Professional experience\n\nC.H.I. Trading Co., Ltd\nIntern · August–September 2023 · Canada\n\nReviewed and archived records from approximately 2020–2023, checked dates and content, and helped correct errors.\nCommunicated with customer service staff on contract compliance matters and coordinated contract-signing arrangements with management.\n\n\n\nChina Construction Bank, Toronto Branch\nCompliance Intern · July–August 2023\n\nEntered data and verified information for the Wolfsberg AML Questionnaire.\nReviewed 2022–2023 compliance documents for completeness and accuracy while handling confidential banking information for regulatory reporting.\n\n\n\nBank of Beijing\nIntern · February–April 2021 · Beijing, China\n\nReviewed customer documentation and learned retail and corporate banking products and service procedures."
   },
   {
-    "objectID": "index.html#what-i-am-learning",
-    "href": "index.html#what-i-am-learning",
-    "title": "Welcome to My Website",
-    "section": "",
-    "text": "Python\nCloud computing\nReproducible documents with Quarto\n\nVisit my GitHub profile."
+    "objectID": "cv.html#certifications",
+    "href": "cv.html#certifications",
+    "title": "CV",
+    "section": "Certifications",
+    "text": "Certifications\n\nBloomberg · November 2026\nAWS Academy Cloud Foundations · October 2026\nAWS Academy Graduate — Generative AI Foundations · April 2026"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\nProgramming and analytics: Python, R, SAS, Excel.\nMethods: Financial statement and ratio analysis, valuation, data cleaning, statistical modeling, regression, visualization, and retrieval-augmented generation.\nLanguages: Mandarin Chinese (native), English (professional)."
+  },
+  {
+    "objectID": "cv.html#volunteer-experience",
+    "href": "cv.html#volunteer-experience",
+    "title": "CV",
+    "section": "Volunteer experience",
+    "text": "Volunteer experience\nZhengxin Social Work Service Center — Online English Teacher\nJune 2023–September 2024 · Remote\nTaught English to children ages 6–13 and adapted lesson materials to student proficiency.\nMcMaster University — Airport Welcome Volunteer\nSeptember 2023 · Toronto\nProvided arrival information and campus directions to incoming international students at Toronto Pearson Airport.\nSee selected academic projects for examples of my analytical work."
+  },
+  {
+    "objectID": "index.html#a-little-more-about-me",
+    "href": "index.html#a-little-more-about-me",
+    "title": "About You",
+    "section": "A little more about me",
+    "text": "A little more about me\nI earned my Honours B.Sc. in Mathematics & Statistics, with a minor in Economics, at McMaster University. That training shaped the way I approach a question: examine the assumptions, organize the evidence, and explain what the analysis can support.\nAt Boston University, I’m building on that foundation through coursework in financial analytics, quantitative methods for finance, generative AI, and big data and cloud analytics. My academic projects span corporate filings, employer branding, financial statements, and population modeling.\nMy career goal is to contribute to financial or business analytics work where careful analysis and clear communication matter. I’m particularly interested in applying AI to financial information while keeping results traceable to their sources."
+  },
+  {
+    "objectID": "index.html#what-i-work-with",
+    "href": "index.html#what-i-work-with",
+    "title": "About You",
+    "section": "What I work with",
+    "text": "What I work with\nPythonRSASExcelFinancial analysisStatistical modelingData visualizationRetrieval-augmented generation"
+  },
+  {
+    "objectID": "index.html#beyond-coursework",
+    "href": "index.html#beyond-coursework",
+    "title": "About You",
+    "section": "Beyond coursework",
+    "text": "Beyond coursework\nAs a volunteer online English teacher, I adapted lessons for children ages 6–13. I also welcomed incoming international students at Toronto Pearson Airport through McMaster University. These experiences strengthened my interest in making information accessible to people with different backgrounds.\nExplore the projects behind these interests, or get in touch."
+  },
+  {
+    "objectID": "projects.html#employer-branding-and-employee-review-analysis",
+    "href": "projects.html#employer-branding-and-employee-review-analysis",
+    "title": "Projects",
+    "section": "Employer branding and employee review analysis",
+    "text": "Employer branding and employee review analysis\n\nABA@BU Hackathon · Team project · October 2026\n\nQuestion: How does employer messaging compare with what employees report about their experience?\nI cleaned 505 job postings and 1,245 employee reviews, removing HTML artifacts, standardizing missing values, checking duplicate IDs, and reviewing rating consistency. As part of the team, I compared recruitment messaging with employee feedback.\nThe analysis informed recommendations for clearer recruitment information and improved project transitions. This project developed my ability to turn mixed text and rating data into business recommendations.\n\nPython Data quality Text analysis Business recommendations"
+  },
+  {
+    "objectID": "projects.html#sec-10-k-extraction-and-retrieval",
+    "href": "projects.html#sec-10-k-extraction-and-retrieval",
+    "title": "Projects",
+    "section": "SEC 10-K extraction and retrieval",
+    "text": "SEC 10-K extraction and retrieval\n\nApplied Generative AI for Business Analytics · Group project · January–May 2026\n\nQuestion: How can a large collection of corporate filings be organized for relevant, traceable financial research?\nI worked on processing 7,754 SEC 10-K filings from 2024 across seven SIC industry groups. The workflow included text cleaning, section extraction, sentence segmentation, and metadata organization.\nThe project extracted Item 1A (Risk Factors) and Item 7 (Management’s Discussion and Analysis). A retrieval pipeline used structured metadata and section filters to support focused searches and source traceability.\nThis work connected document processing with the information needs of financial and risk analysis.\n\nPython SEC filings Metadata Retrieval / RAG"
+  },
+  {
+    "objectID": "projects.html#loréal-and-estée-lauder-financial-analysis",
+    "href": "projects.html#loréal-and-estée-lauder-financial-analysis",
+    "title": "Projects",
+    "section": "L’Oréal and Estée Lauder financial analysis",
+    "text": "L’Oréal and Estée Lauder financial analysis\n\nFinancial and Managerial Accounting · Group project · September–October 2025\n\nQuestion: What do financial statements reveal about the performance and financial position of two beauty companies?\nOur group compared L’Oréal and Estée Lauder’s financial statements. I analyzed six financial ratios, using L’Oréal’s 2024 and first-half 2025 data to help inform an investment recommendation.\nThe comparison considered profitability, liquidity, operating efficiency, and solvency. It strengthened my ability to interpret accounting measures in a company and industry context, and to communicate the reasoning behind a financial conclusion.\n\nExcel Financial statements Ratio analysis Investment research"
+  },
+  {
+    "objectID": "projects.html#ontario-population-growth-modeling",
+    "href": "projects.html#ontario-population-growth-modeling",
+    "title": "Projects",
+    "section": "Ontario population growth modeling",
+    "text": "Ontario population growth modeling\n\nIntroduction to Modelling · Group project · January–May 2023\n\nQuestion: How can a mathematical model help interpret long-term population trends in Ontario?\nI collaborated in a five-member team developing a logistic population growth model. My contributions included model assumptions, variable organization, and interpretation of demographic trends.\nThe project considered numerical differentiation and least-squares curve fitting for parameter estimation. This work helped me understand how assumptions and estimation choices shape the interpretation of a model.\n\nR Mathematical modeling Demographics Least squares"
+  },
+  {
+    "objectID": "projects.html#lets-talk-about-the-work",
+    "href": "projects.html#lets-talk-about-the-work",
+    "title": "Projects",
+    "section": "Let’s talk about the work",
+    "text": "Let’s talk about the work\nInterested in a project or my approach to analysis? Contact me to start a conversation."
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "Email",
+    "text": "Email\nannabellaxuaijia@gmail.com"
+  },
+  {
+    "objectID": "contact.html#professional-profiles",
+    "href": "contact.html#professional-profiles",
+    "title": "Contact",
+    "section": "Professional profiles",
+    "text": "Professional profiles\nLinkedIn · GitHub\nBased in Boston, Massachusetts.\nI communicate in English and Mandarin Chinese. When reaching out about a role or project, please include a little context about the opportunity."
+  },
+  {
+    "objectID": "contact.html#learn-more",
+    "href": "contact.html#learn-more",
+    "title": "Contact",
+    "section": "Learn more",
+    "text": "Learn more\nBrowse my projects or view my CV."
   }
 ]
