@@ -26,7 +26,7 @@ Repository: https://github.com/Annabella-Xu/Annabella-Xu.github.io
 - `projects.qmd`: Four academic/team project summaries.
 - `cv.qmd`: Education, experience, certifications, and CV links.
 - `contact.qmd`: Email and professional profiles.
-- `assets/Annabella-Xu-Resume.pdf`: Downloadable resume, copied unchanged from the supplied `Annabella Xu Resume - job.pdf`.
+- `assets/Annabella-Xu-Resume.pdf`: Downloadable resume, based on the supplied `Annabella Xu Resume - job.pdf`, with the C.H.I., Bank of Beijing, and Bloomberg dates corrected as requested.
 - `styles.css`: Responsive visual design.
 - `about.qmd`: Compatibility page for the previous About URL.
 

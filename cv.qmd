@@ -39,7 +39,7 @@ Coursework includes applied statistics, regression analysis, probability, mathem
 ::: {.timeline}
 ### C.H.I. Trading Co., Ltd
 
-**Intern** · [August–September 2023 · Canada]{.date}
+**Intern** · [August–October 2023 · Canada]{.date}
 
 - Reviewed and archived records from approximately 2020–2023, checked dates and content, and helped correct errors.
 - Communicated with customer service staff on contract compliance matters and coordinated contract-signing arrangements with management.
@@ -57,14 +57,14 @@ Coursework includes applied statistics, regression analysis, probability, mathem
 ::: {.timeline}
 ### Bank of Beijing
 
-**Intern** · [February–April 2021 · Beijing, China]{.date}
+**Intern** · [January–May 2021 · Beijing, China]{.date}
 
 - Reviewed customer documentation and learned retail and corporate banking products and service procedures.
 :::
 
 ## Certifications
 
-- **Bloomberg** · November 2026
+- **Bloomberg** · October 2026
 - **AWS Academy Cloud Foundations** · October 2026
 - **AWS Academy Graduate — Generative AI Foundations** · April 2026
 
