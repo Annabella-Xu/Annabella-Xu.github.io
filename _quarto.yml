@@ -1,21 +1,48 @@
 project:
   type: website
-
+  output-dir: _site
+  render:
+    - index.qmd
+    - projects.qmd
+    - cv.qmd
+    - contact.qmd
+    - about.qmd
+  resources:
+    - assets/
 website:
-  title: "Annabella-Xu.github.io"
+  title: "Annabella Xu"
+  description: "Financial management, data analytics, and applied AI. Explore Annabella Xu's academic projects and professional experience."
+  site-url: https://Annabella-Xu.github.io
   navbar:
+    title: "Annabella Xu"
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: About You
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/Annabella-Xu
+        aria-label: GitHub profile
+      - icon: linkedin
+        href: https://www.linkedin.com/in/annabella-xu-118167278/
+        aria-label: LinkedIn profile
+  page-footer:
+    left: "© 2026 Annabella Xu"
+    right: "Built with Quarto"
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
-
-
-
+    toc: false
+    lang: en
+    title-block-style: none
+    anchor-sections: false
+    link-external-newwindow: true
+    respect-user-color-scheme: false
+execute:
+  enabled: false

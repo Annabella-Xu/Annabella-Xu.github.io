@@ -1,0 +1,91 @@
+---
+title: "CV"
+---
+
+# Education & experience
+
+::: {.page-intro}
+A mathematics and statistics foundation, graduate study in financial management and AI, and internship experience in banking and compliance.
+:::
+
+```{=html}
+<div class="actions"><a class="portfolio-button" href="assets/Annabella-Xu-Resume.pdf" download="Annabella-Xu-Resume.pdf">Download CV (PDF)</a><a class="portfolio-button secondary" href="assets/Annabella-Xu-Resume.pdf" target="_blank" rel="noopener">Open PDF</a></div>
+```
+
+## Education
+
+::: {.timeline}
+### Boston University
+
+**M.S. in Financial Management, concentration in Artificial Intelligence**
+
+[Expected January 2027 · Boston, MA]{.date}
+
+Coursework includes Financial Analytics, Quantitative Methods for Finance, Applied Generative AI for Business Analytics, Big Data & Cloud Analytics for Business, and Corporate Finance.
+:::
+
+::: {.timeline}
+### McMaster University
+
+**Honours B.Sc. in Mathematics & Statistics, minor in Economics**
+
+[September 2019–June 2024 · Hamilton, Ontario, Canada]{.date}
+
+Coursework includes applied statistics, regression analysis, probability, mathematical modeling, microeconomics, and macroeconomics.
+:::
+
+## Professional experience
+
+::: {.timeline}
+### C.H.I. Trading Co., Ltd
+
+**Intern** · [August–September 2023 · Canada]{.date}
+
+- Reviewed and archived records from approximately 2020–2023, checked dates and content, and helped correct errors.
+- Communicated with customer service staff on contract compliance matters and coordinated contract-signing arrangements with management.
+:::
+
+::: {.timeline}
+### China Construction Bank, Toronto Branch
+
+**Compliance Intern** · [July–August 2023]{.date}
+
+- Entered data and verified information for the Wolfsberg AML Questionnaire.
+- Reviewed 2022–2023 compliance documents for completeness and accuracy while handling confidential banking information for regulatory reporting.
+:::
+
+::: {.timeline}
+### Bank of Beijing
+
+**Intern** · [February–April 2021 · Beijing, China]{.date}
+
+- Reviewed customer documentation and learned retail and corporate banking products and service procedures.
+:::
+
+## Certifications
+
+- **Bloomberg** · November 2026
+- **AWS Academy Cloud Foundations** · October 2026
+- **AWS Academy Graduate — Generative AI Foundations** · April 2026
+
+## Skills
+
+**Programming and analytics:** Python, R, SAS, Excel.
+
+**Methods:** Financial statement and ratio analysis, valuation, data cleaning, statistical modeling, regression, visualization, and retrieval-augmented generation.
+
+**Languages:** Mandarin Chinese (native), English (professional).
+
+## Volunteer experience
+
+**Zhengxin Social Work Service Center — Online English Teacher**  
+June 2023–September 2024 · Remote
+
+Taught English to children ages 6–13 and adapted lesson materials to student proficiency.
+
+**McMaster University — Airport Welcome Volunteer**  
+September 2023 · Toronto
+
+Provided arrival information and campus directions to incoming international students at Toronto Pearson Airport.
+
+[See selected academic projects](projects.qmd) for examples of my analytical work.

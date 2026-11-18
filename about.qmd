@@ -1,5 +1,9 @@
 ---
-title: "About"
+title: "About Annabella Xu"
 ---
 
-About this site
+# About Annabella Xu
+
+My personal introduction is now on the [About You homepage](index.qmd).
+
+You can also explore my [projects](projects.qmd), [CV](cv.qmd), and [contact details](contact.qmd).

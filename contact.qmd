@@ -1,0 +1,27 @@
+---
+title: "Contact"
+---
+
+# Let's connect
+
+::: {.page-intro}
+I'm interested in financial and business analytics opportunities, academic collaboration, and conversations about applying AI to financial information.
+:::
+
+::: {.contact-panel}
+## Email
+
+[annabellaxuaijia@gmail.com](mailto:annabellaxuaijia@gmail.com)
+
+## Professional profiles
+
+[LinkedIn](https://www.linkedin.com/in/annabella-xu-118167278/) · [GitHub](https://github.com/Annabella-Xu)
+
+**Based in Boston, Massachusetts.**
+
+I communicate in English and Mandarin Chinese. When reaching out about a role or project, please include a little context about the opportunity.
+:::
+
+## Learn more
+
+[Browse my projects](projects.qmd) or [view my CV](cv.qmd).

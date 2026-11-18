@@ -1,23 +1,46 @@
 ---
-title: "Welcome to My Website"
-author: "Annabella Xu"
-date: "2026-09-30"
-format:
-  html:
-    theme: journal
-    toc: true
+title: "About You"
+page-layout: full
+title-block-banner: false
 ---
-# Hello, World!  
-Welcome to my Quarto website.  
 
-## About this website
+```{=html}
+<div class="hero">
+  <div>
+    <p class="eyebrow">Financial management · Data analytics · Applied AI</p>
+    <h1>Hi, I'm<br>Annabella Xu.</h1>
+    <p class="lead">I bring a background in mathematics and statistics to financial analysis, with a growing focus on how AI can help make complex business information useful.</p>
+    <p>I'm pursuing an M.S. in Financial Management with a concentration in Artificial Intelligence at Boston University. My interests connect financial research, reliable data, and practical business decisions.</p>
+    <div class="actions"><a class="portfolio-button" href="projects.html">Explore my projects</a><a class="portfolio-button secondary" href="cv.html">View my CV</a></div>
+  </div>
+  <div class="hero-art">
+    <img src="assets/finance-data.svg" alt="Conceptual illustration connecting financial documents, structured data, and analysis" width="420" height="360">
+    <p class="hero-caption">My focus: understanding financial information through data.</p>
+  </div>
+</div>
+<div class="intro-band">
+  <div><strong>Finance with an analytical foundation</strong><p>Financial statements, ratio analysis, and a mathematics and statistics background.</p></div>
+  <div><strong>Data that supports decisions</strong><p>Python workflows, structured text retrieval, and statistical modeling.</p></div>
+  <div><strong>Experience in regulated settings</strong><p>Banking internships involving documentation, information verification, and compliance.</p></div>
+</div>
+```
 
-This website is my AD688 assignment 1 coursework.
+## A little more about me
 
-## What I am learning
+I earned my Honours B.Sc. in Mathematics & Statistics, with a minor in Economics, at McMaster University. That training shaped the way I approach a question: examine the assumptions, organize the evidence, and explain what the analysis can support.
 
-- Python
-- Cloud computing
-- Reproducible documents with Quarto
+At Boston University, I'm building on that foundation through coursework in financial analytics, quantitative methods for finance, generative AI, and big data and cloud analytics. My academic projects span corporate filings, employer branding, financial statements, and population modeling.
 
-Visit my [GitHub profile](https://github.com/Annabella-Xu).
+My career goal is to contribute to financial or business analytics work where careful analysis and clear communication matter. I'm particularly interested in applying AI to financial information while keeping results traceable to their sources.
+
+## What I work with
+
+```{=html}
+<div class="tag-list" aria-label="Technical and analytical skills"><span class="tag">Python</span><span class="tag">R</span><span class="tag">SAS</span><span class="tag">Excel</span><span class="tag">Financial analysis</span><span class="tag">Statistical modeling</span><span class="tag">Data visualization</span><span class="tag">Retrieval-augmented generation</span></div>
+```
+
+## Beyond coursework
+
+As a volunteer online English teacher, I adapted lessons for children ages 6–13. I also welcomed incoming international students at Toronto Pearson Airport through McMaster University. These experiences strengthened my interest in making information accessible to people with different backgrounds.
+
+[Explore the projects behind these interests](projects.qmd), or [get in touch](contact.qmd).
