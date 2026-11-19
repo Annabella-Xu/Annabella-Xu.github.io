@@ -75,3 +75,13 @@ body{background:#fff;color:#000}
 
 
 #title-block-header{display:none}
+
+.case-summary{border-left:4px solid var(--accent);background:#fff;padding:1.1rem 1.5rem;margin:2rem 0}
+.case-summary p:last-child{margin-bottom:0}
+.case-figure{background:white;padding:1rem;border:1px solid var(--line);margin:2rem 0}
+.case-figure img{width:100%;height:auto}
+.case-figure figcaption{font-size:.9rem;color:var(--muted);line-height:1.5;margin-top:.7rem}
+.certificate-preview{max-width:720px;margin:1.5rem 0}
+.certificate-preview img{border:1px solid var(--line);height:auto}
+.certificate-preview figcaption{font-size:.9rem;color:var(--muted)}
+@media(max-width:767px){.case-summary{padding:1rem}.case-figure{padding:.5rem}table{font-size:.9rem}}

@@ -7,12 +7,14 @@ project:
     - cv.qmd
     - contact.qmd
     - about.qmd
+    - hackathon.qmd
+    - population.qmd
   resources:
     - assets/
 website:
   title: "Annabella Xu"
   description: "Financial management, data analytics, and applied AI. Explore Annabella Xu's academic projects and professional experience."
-  site-url: https://Annabella-Xu.github.io
+  site-url: https://annabella-xu.github.io
   navbar:
     title: "Annabella Xu"
     left:

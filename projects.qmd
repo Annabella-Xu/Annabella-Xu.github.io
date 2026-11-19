@@ -17,14 +17,16 @@ Academic and team projects connecting finance, business questions, and data. Eac
 ## Employer branding and employee review analysis
 
 ::: {.project-meta}
-ABA@BU Hackathon · Team project · October 2026
+ABA@BU Hackathon · Winning team member · October 23–24, 2026
 :::
 
 **Question:** How does employer messaging compare with what employees report about their experience?
 
-I cleaned **505 job postings and 1,245 employee reviews**, removing HTML artifacts, standardizing missing values, checking duplicate IDs, and reviewing rating consistency. As part of the team, I compared recruitment messaging with employee feedback.
+I cleaned **505 job postings and 1,245 employee reviews**, removing HTML artifacts, standardizing missing values, checking duplicate IDs, and reviewing rating consistency. Our team focused on **Booz Allen Hamilton**, using **Accenture and Capgemini** as peer benchmarks.
 
-The analysis informed recommendations for clearer recruitment information and improved project transitions. This project developed my ability to turn mixed text and rating data into business recommendations.
+The analysis informed recommendations for clearer recruitment information and project-transition support. I was a member of a winning team in the Employer Promise and Employee Experience competition.
+
+[Read the case study](hackathon.qmd) · [View the certificate](assets/hackathon/ABA-BU-Winning-Team-Certificate.pdf)
 
 ::: {.tag-list}
 [Python]{.tag} [Data quality]{.tag} [Text analysis]{.tag} [Business recommendations]{.tag}
@@ -95,7 +97,11 @@ Introduction to Modelling · Group project · January–May 2023
 
 I collaborated in a **five-member team** developing a logistic population growth model. My contributions included model assumptions, variable organization, and interpretation of demographic trends.
 
-The project considered numerical differentiation and least-squares curve fitting for parameter estimation. This work helped me understand how assumptions and estimation choices shape the interpretation of a model.
+In **November 2026**, I reconstructed the R analysis using **52 annual Statistics Canada observations (1971–2022)** and fitted logistic models with numerical differentiation and nonlinear least squares. Four models were compared on a **ten-year holdout (2013–2022)**: derivative-based logistic achieved **0.65% MAPE**, versus **0.90%** for a linear trend.
+
+These estimates belong to the 2026 reconstruction. The original 2023 project contributions remain distinct.
+
+[Explore the reconstructed analysis and validation](population.qmd)
 
 ::: {.tag-list}
 [R]{.tag} [Mathematical modeling]{.tag} [Demographics]{.tag} [Least squares]{.tag}

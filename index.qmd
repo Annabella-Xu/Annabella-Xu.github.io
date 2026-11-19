@@ -33,6 +33,12 @@ At Boston University, I'm building on that foundation through coursework in fina
 
 My career goal is to contribute to financial or business analytics work where careful analysis and clear communication matter. I'm particularly interested in applying AI to financial information while keeping results traceable to their sources.
 
+## Recent recognition
+
+I was a **member of a winning team at the 13th ABA@BU Hackathon**, held October 23–24, 2026. Our project examined employer promises and employee experience, with Booz Allen Hamilton as the focal employer and Accenture and Capgemini as peer benchmarks.
+
+[Read the project case study](hackathon.qmd) · [View the certificate](assets/hackathon/ABA-BU-Winning-Team-Certificate.pdf)
+
 ## What I work with
 
 ```{=html}

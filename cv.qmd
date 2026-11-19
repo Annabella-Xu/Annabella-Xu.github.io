@@ -31,8 +31,15 @@ Coursework includes Financial Analytics, Quantitative Methods for Finance, Appli
 
 [September 2019–June 2024 · Hamilton, Ontario, Canada]{.date}
 
-Coursework includes applied statistics, regression analysis, probability, mathematical modeling, microeconomics, and macroeconomics.
+Coursework includes applied statistics, regression analysis, and probability.
 :::
+
+## Selected projects
+
+- **[Employer branding and employee review analysis](hackathon.qmd)** — Winning team member, ABA@BU Hackathon, October 2026. Booz Allen Hamilton as the focal employer; Accenture and Capgemini as peer benchmarks.
+- **[SEC 10-K extraction and retrieval](projects.qmd#sec-retrieval)** — Work on 7,754 filings across seven SIC industry groups, including Risk Factors and MD&A extraction.
+- **[L’Oréal and Estée Lauder financial analysis](projects.qmd#financial-analysis)** — Comparison of profitability, liquidity, operating efficiency, and solvency, including six financial ratios.
+- **[Ontario population growth modeling](population.qmd)** — Five-member course project in 2023; R analysis reconstructed in November 2026 using 52 annual observations and a ten-year holdout.
 
 ## Professional experience
 
@@ -42,7 +49,7 @@ Coursework includes applied statistics, regression analysis, probability, mathem
 **Intern** · [August–October 2023 · Canada]{.date}
 
 - Reviewed and archived records from approximately 2020–2023, checked dates and content, and helped correct errors.
-- Communicated with customer service staff on contract compliance matters and coordinated contract-signing arrangements with management.
+- Assisted with client communications and contract revisions, and coordinated with clients and management on contract-signing arrangements.
 :::
 
 ::: {.timeline}
@@ -59,8 +66,18 @@ Coursework includes applied statistics, regression analysis, probability, mathem
 
 **Intern** · [January–May 2021 · Beijing, China]{.date}
 
-- Reviewed customer documentation and learned retail and corporate banking products and service procedures.
+- Reviewed customer documentation for retail and corporate banking services.
+- Developed familiarity with retail and corporate banking products and routine service procedures.
 :::
+
+## Recognition
+
+**Winning team member — 13th ABA@BU Hackathon**\
+October 23–24, 2026 · Boston University Metropolitan College
+
+Competition: *Models and Applications for a Business Case: Employer Promise and Employee Experience*.
+
+[View the winning-team certificate (PDF)](assets/hackathon/ABA-BU-Winning-Team-Certificate.pdf)
 
 ## Certifications
 
@@ -72,18 +89,18 @@ Coursework includes applied statistics, regression analysis, probability, mathem
 
 **Programming and analytics:** Python, R, SAS, Excel.
 
-**Methods:** Financial statement and ratio analysis, valuation, data cleaning, statistical modeling, regression, visualization, and retrieval-augmented generation.
+**Methods:** Financial statement analysis, ratio analysis, valuation, data cleaning, statistical modeling, regression, data visualization, and retrieval-augmented generation (RAG).
 
 **Languages:** Mandarin Chinese (native), English (professional).
 
 ## Volunteer experience
 
-**Zhengxin Social Work Service Center — Online English Teacher**  
+**Zhengxin Social Work Service Center — Online English Teacher**\
 June 2023–September 2024 · Remote
 
 Taught English to children ages 6–13 and adapted lesson materials to student proficiency.
 
-**McMaster University — Airport Welcome Volunteer**  
+**McMaster University — Airport Welcome Volunteer**\
 September 2023 · Toronto
 
 Provided arrival information and campus directions to incoming international students at Toronto Pearson Airport.

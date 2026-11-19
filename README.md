@@ -24,13 +24,17 @@ Repository: https://github.com/Annabella-Xu/Annabella-Xu.github.io
 
 - `index.qmd`: About You and professional interests.
 - `projects.qmd`: Four academic/team project summaries.
+- `hackathon.qmd`: Winning-team case study with focal employer, peer benchmarks, methods, and recognition.
+- `population.qmd`: Clearly dated 2026 reconstruction with holdout results.
 - `cv.qmd`: Education, experience, certifications, and CV links.
 - `contact.qmd`: Email and professional profiles.
-- `assets/Annabella-Xu-Resume.pdf`: Downloadable resume, based on the supplied `Annabella Xu Resume - job.pdf`, with the C.H.I., Bank of Beijing, and Bloomberg dates corrected as requested.
+- `assets/Annabella-Xu-Resume.pdf`: Exact copy of the latest resume exported natively from Pages to `Desktop/work/Annabella Xu Resume - job.pdf` on 19 November 2026.
 - `styles.css`: Responsive visual design.
 - `about.qmd`: Compatibility page for the previous About URL.
 
-The project diagrams illustrate the described workflows and analytical categories; they are not charts of measured results. Project counts and experience are drawn from the supplied resume. No project repositories or performance metrics are invented.
+The diagrams on the project overview illustrate workflows and analytical categories. The Hackathon case study reuses the original aggregate sample-size figure from the final analytical package and links the supplied certificate unchanged. The population validation chart and metrics come from the report and R results reconstructed on 18 November 2026. Those results are explicitly distinguished from the original 2023 team project.
+
+Content evidence: supplied resume; `MilkDragon.pptx`; winning-team certificate; Hackathon `final_submission` method notes and sample-size outputs; Ontario reconstruction report and `results/model_metrics.csv`. The original slide deck, source CSV records, employee-review excerpts, and private working files are not published. No rank beyond membership of a winning team is claimed.
 
 ## Assignment packaging
 
